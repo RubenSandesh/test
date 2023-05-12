@@ -1,4 +1,4 @@
-class TestClass {
+class AssignmentClass {
     public static void main(String[] args) {
        System.out.println(calculateNextNum(19));
     }
